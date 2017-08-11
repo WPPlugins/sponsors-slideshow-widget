@@ -1,0 +1,605 @@
+# SponsorsSlideShow POT file.
+# Copyright (C) 2008 Kolja Schleich
+# This file is distributed under the same license as the WordPress package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sponsors-slideshow-widget\n"
+"POT-Creation-Date: 2009-05-13 01:51+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kolja Schleich <kolja.schleich@googlemail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# sponsors-slideshow-widget.php
+msgid "100% Width"
+msgstr "100% Breite"
+
+# sponsors-slideshow-widget.php
+msgid "Continuous Slideshow"
+msgstr "Kontinuierliche Slideshow"
+
+# sponsors-slideshow-widget.php
+msgid "Galleries"
+msgstr "Galerien"
+
+# sponsors-slideshow-widget.php
+msgid "Gallery"
+msgstr "Galerie"
+
+# sponsors-slideshow-widget.php
+msgid "Search Galleries"
+msgstr "Galerien durchsuchen"
+
+# sponsors-slideshow-widget.php
+msgid "All Galleries"
+msgstr "Alle Galerien"
+
+# sponsors-slideshow-widget.php
+msgid "Parent Gallery"
+msgstr "Eltern Galerie"
+
+# sponsors-slideshow-widget.php
+msgid "Parent Gallery:"
+msgstr "Eltern Galerie:"
+
+# sponsors-slideshow-widget.php
+msgid "Edit Gallery"
+msgstr "Galerie bearbeiten"
+
+# sponsors-slideshow-widget.php
+msgid "Update Gallery"
+msgstr "Galerie aktualisieren"
+
+# sponsors-slideshow-widget.php
+msgid "Add New Gallery"
+msgstr "Neue Galerie hinzufügen"
+
+# sponsors-slideshow-widget.php
+msgid "New Gallery Name"
+msgstr "Neue Galerie Name"
+
+# sponsors-slideshow-widget.php
+msgid "Categories"
+msgstr "Kategorien"
+
+# sponsors-slideshow-widget.php
+msgid "Category"
+msgstr "Kategorie"
+
+# sponsors-slideshow-widget.php
+msgid "Search Categories"
+msgstr "Kategorien durchsuchen"
+
+# sponsors-slideshow-widget.php
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+# sponsors-slideshow-widget.php
+msgid "Parent Category"
+msgstr "Eltern Kategorie"
+
+# sponsors-slideshow-widget.php
+msgid "Parent Category:"
+msgstr "Eltern Kategorie:"
+
+# sponsors-slideshow-widget.php
+msgid "Edit Category"
+msgstr "Kategorie bearbeiten"
+
+# sponsors-slideshow-widget.php
+msgid "Update Category"
+msgstr "Kategorie aktualisieren"
+
+# sponsors-slideshow-widget.php
+msgid "Add New Category"
+msgstr "Neue Kategorie hinzufügen"
+
+# sponsors-slideshow-widget.php
+msgid "New Category Name"
+msgstr "Neue Kategorie Name"
+
+# sponsors-slideshow-widget.php
+msgid "Continue Reading"
+msgstr "Weiterlesen"
+
+#: sponsors-slideshow-widget.php:96
+msgid "Sponsors Slideshow"
+msgstr "Sponsors Slideshow"
+
+#: sponsors-slideshow-widget.php:
+msgid "Generate fancy slideshows"
+msgstr "Erstelle tolle Slideshows"
+
+#: sponsors-slideshow-widget.php:235
+msgid "Links"
+msgstr "Links"
+
+#: sponsors-slideshow-widget.php:
+msgid "Source"
+msgstr "Quelle"
+
+#: sponsors-slideshow-widget.php:236
+msgid "Title"
+msgstr "Titel"
+
+#: sponsors-slideshow-widget.php:237
+msgid "Width"
+msgstr "Breite"
+
+#: sponsors-slideshow-widget.php:238
+msgid "Height"
+msgstr "Höhe"
+
+#: sponsors-slideshow-widget.php:239
+msgid "Timeout"
+msgstr "Timeout"
+
+#: sponsors-slideshow-widget:
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+#: sponsors-slideshow-widget.php:239
+msgid "seconds"
+msgstr "Sekunden"
+
+#: sponsors-slideshow-widget.php
+msgid "Slide Overlay"
+msgstr "Folien Overlay"
+
+#: sponsors-slideshow-widget.php:overlayDisplay()
+msgid "Display"
+msgstr "Anzeige"
+
+#: sponsors-slideshow-widget.php:overlayDisplay()
+msgid "No Overlay"
+msgstr "Kein Overlay"
+
+#: sponsors-slideshow-widget.php:overlayDisplay()
+msgid "Title & Description"
+msgstr "Titel & Beschreibung"
+
+#: sponsors-slideshow-widget.php:overlayAnimate()
+msgid "Animate"
+msgstr "Animieren"
+
+#: sponsors-slideshow-widget.php:overlayAnimate()
+msgid "No Animation"
+msgstr "Keine Animation"
+
+#: sponsors-slideshow-widget.php:overlayAnimate()
+msgid "Overlay Box"
+msgstr "Overlay Box"
+
+#: sponsors-slideshow-widget.php:overlayAnimate()
+msgid "Overlay Content"
+msgstr "Overlay Inhalt"
+
+#: sponsors-slideshow-widget.php:overlayEffects()
+msgid "Slide Up & Down"
+msgstr "Hoch & Runter Gleiten"
+
+#: sponsors-slideshow-widget.php:overlayStyles()
+msgid "Default"
+msgstr "Standard"
+
+#: sponsors-slideshow-widget.php:form()
+msgid "Style"
+msgstr "Stil"
+
+#: sponsors-slideshow-widget.php:overlayStyles()
+msgid "Fancy"
+msgstr "Schick"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Easing Effect"
+msgstr "Easing Effekt"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+#: sponsors-slideshow-widget.php:overlayEffects()
+msgid "None"
+msgstr "Kein"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Swing"
+msgstr "Swing"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Quad"
+msgstr "Ease In Quadratisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Quad"
+msgstr "Ease Out Quadratisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Quad"
+msgstr "Ease In Out Quadratisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Cubic"
+msgstr "Ease In Kubisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Cubic"
+msgstr "Ease Out Kubisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Cubic"
+msgstr "Ease In Out Kubisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Quart"
+msgstr "Ease In Quartär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Quart"
+msgstr "Ease Out Quartär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Quart"
+msgstr "Ease In Out Quartär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Quint"
+msgstr "Ease In Quintär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Quint"
+msgstr "Ease Out Quintär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Quint"
+msgstr "Ease In Out Quintär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Sine"
+msgstr "Ease In Sinus"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Sine"
+msgstr "Ease Out Sinus"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Sine"
+msgstr "Ease In Out Sinus"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Expo"
+msgstr "Ease In Exponentiell"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Expo"
+msgstr "Ease Out Exponentiell"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Expo"
+msgstr "Ease In Out Exponentiell"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Circ"
+msgstr "Ease In Zirkulär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Circ"
+msgstr "Ease Out Zirkulär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Circ"
+msgstr "Ease In Out Zirkulär"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Elastic"
+msgstr "Ease In Elastisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Elastic"
+msgstr "Ease Out Elastisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Elastic"
+msgstr "Ease In Out Elastisch"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Back"
+msgstr "Ease In Zurück"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Back"
+msgstr "Ease Out Zurück"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Back"
+msgstr "Ease In Out Zurück"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Bounce"
+msgstr "Ease In Hüpfen"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease Out Bounce"
+msgstr "Ease Out Hüpfen"
+
+#: sponsors-slideshow-widget.php:easingEffects()
+msgid "Ease In Out Bounce"
+msgstr "Ease In Out Hüpfen"
+
+#: sponsors-slideshow-widget.php:240
+msgid "Fade Effect"
+msgstr "Übergang"
+
+#: sponsors-slideshow-widget.php:form()
+msgid "slides"
+msgstr "Folien"
+
+#: sponsors-slideshow-widget.php:241
+msgid "Order"
+msgstr "Reihenfolge"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Blind X"
+msgstr "Blende X"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Blind Y"
+msgstr "Blende Y"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Blind Z"
+msgstr "Blende Z"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Cover"
+msgstr "Überziehen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Curtain X"
+msgstr "Rollo X"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Curtain Y"
+msgstr "Rollo Y"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Fade"
+msgstr "Überblenden"
+
+#: sponsors-slideshow-widget: fadeEffects()
+msgid "Fadeout"
+msgstr "Verblassen"
+
+#: sponsors-slideshow-widget: fadeEffects()
+msgid "Flip Horizontal"
+msgstr "Horizontal spiegeln"
+
+#: sponsors-slideshow-widget: fadeEffects()
+msgid "Flip Vertical"
+msgstr "Vertikal spiegeln"
+
+#: sponsors-slideshow-widget: fadeEffects()
+msgid "Tile Slide"
+msgstr "Slide zerlegen"
+
+#: sponsors-slideshow-widget: fadeEffects()
+msgid "Tile Blind"
+msgstr "Rollo"
+
+#: sponsors-slideshow-widget: fadeEffects()
+msgid "Tile Slide Horizontal"
+msgstr "Slide zerlegen horizontal"
+
+#: sponsors-slideshow-widget: fadeEffects()
+msgid "Tile Blind Horizontal"
+msgstr "Rollo Horizontal"
+
+#: sponsors-slideshow-widget: fadeEffects()
+msgid "Carousel"
+msgstr "Karussel"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Fade Zoom"
+msgstr "Fade Zoom"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Scroll Up"
+msgstr "Hoch scrollen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Scroll Left"
+msgstr "Links scrollen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Scroll Right"
+msgstr "Rechts scrollen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Scroll Down"
+msgstr "Runter scrollen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Scroll Horizontal"
+msgstr "Horizontal scrollen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Scroll Vertical"
+msgstr "Vertikal scrollen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Shuffle"
+msgstr "Mischen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Slide X"
+msgstr "Gleiten X"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Slide Y"
+msgstr "Gleiten Y"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Toss"
+msgstr "Schleudern"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Turn Up"
+msgstr "Hoch wenden"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Turn Down"
+msgstr "Runter wenden"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Turn Left"
+msgstr "Links wenden"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Turn Right"
+msgstr "Rechts wenden"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Uncover"
+msgstr "Aufdecken"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Wipe"
+msgstr "Wischen"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Zoom"
+msgstr "Zoom"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Grow X"
+msgstr "Wachsen X"
+
+#: sponsors-slideshow-widget.php:325
+msgid "Grow Y"
+msgstr "Wachsen Y"
+
+#: sponsors-slideshow-widget.php:325
+#: sponsors-slideshow-widget.php:346
+msgid "Random"
+msgstr "Zufällig"
+
+#: sponsors-slideshow-widget.php:346
+msgid "Ordered"
+msgstr "Geordnet"
+
+#: sponsors-slideshow-widget.php
+msgid "Navigation Arrows"
+msgstr "Navigationspfeile"
+
+#: sponsors-slideshow-widget.php
+msgid "Navigation Pager"
+msgstr "Navigation Pager"
+
+#: sponsors-slideshow-widget.php
+msgid "Navigation"
+msgstr "Navigation"
+
+#: sponsors-slideshow-widget.php
+msgid "Pager"
+msgstr "Pager"
+
+#: sponsors-slideshow-widget.php
+#: tinymce/window.php
+msgid "Hide"
+msgstr "Verstecken"
+
+#: sponsors-slideshow-widget.php
+#: tinymce/window.php
+msgid "Buttons"
+msgstr "Knöpfe"
+
+#: sponsors-slideshow-widget.php
+#: tinymce/window.php
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#: sponsors-slideshow-widget.php
+msgid "Arrows"
+msgstr "Pfeile"
+
+#: sponsors-slideshow-widget.php
+msgid "Post Excerpt"
+msgstr "Beitragsauszug"
+
+#: sponsors-slideshow-widget.php
+#: tinymce/window.php
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: sponsors-slideshow-widget.php
+msgid "Images"
+msgstr "Bilder"
+
+#: sponsors-slideshow-widget.php
+msgid "Posts"
+msgstr "Beiträge"
+
+#: sponsors-slideshow-widget.php:227
+msgid "Pages"
+msgstr "Seiten"
+
+#: sponsors-slideshow-widget.php
+msgid "Posts or Images"
+msgstr "Beiträge oder Bilder"
+
+#: sponsors-slideshow-widget.php
+msgid "Latest Posts"
+msgstr "Letzte Beiträge"
+
+#: sponsors-slideshow-widget.php
+msgid "Latest %d posts"
+msgstr "Letzte %d Beiträge"
+
+#: sponsors-slideshow-widget.php:displayMetabox()
+msgid "Description"
+msgstr "Beschreibung"
+
+#: sponsors-slideshow-widget.php:displayMetabox()
+msgid "These slideshow overlay settings are optional. If empty, the post/page title and excerpt will be used as overlay"
+msgstr "Diese Slideshow Overlay Einstellungen sind optional. Falls diese leer sind werden Post/Seiten Titel und Auszug als Overlay verwendet"
+
+#: tinymce/window.php
+msgid "Show"
+msgstr "Zeige"
+
+#: tinymce/window.php
+msgid "slides in Carousel"
+msgstr "Folien im Karussel"
+
+#: tinymce/window.php
+msgid "Bounding Box"
+msgstr "Rahmen"
+
+#: tinymce/window.php
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: tinymce/window.php
+msgid "Floating Left"
+msgstr "Links gleitend"
+
+#: tinymce/window.php
+msgid "Centered"
+msgstr "Zentriert"
+
+#: tinymce/window.php
+msgid "Floating Right"
+msgstr "Rechts gleitend"
+
+#: tinymce/window.php
+msgid "words"
+msgstr "Wörter"
+
+#: tinymce/window.php
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: tinymce/window.php
+msgid "Insert"
+msgstr "Einfügen"

@@ -1,0 +1,445 @@
+# Fancy Slideshows POT file.
+# Copyright (C) 2017 Kolja Schleich
+# This file is distributed under the same license as the WordPress package.
+# Creation Date: 2017-05-25 21:36:25
+
+#sponsors-slideshow-widget.php: 137
+msgid "Generate fancy slideshows"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 138
+msgid "Slideshow"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 148
+msgid "Galleries"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 149
+msgid "Gallery"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 150
+msgid "Search Galleries"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 151
+msgid "All Galleries"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 152
+msgid "Parent Gallery"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 153
+msgid "Parent Gallery:"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 154
+msgid "Edit Gallery"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 155
+msgid "Update Gallery"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 156
+msgid "Add New Gallery"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 157
+msgid "New Gallery Name"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 172
+msgid "Categories"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 173
+msgid "Category"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 174
+msgid "Search Categories"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 175
+msgid "All Categories"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 176
+msgid "Parent Category"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 177
+msgid "Parent Category:"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 178
+msgid "Edit Category"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 179
+msgid "Update Category"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 180
+msgid "Add New Category"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 181
+msgid "New Category Name"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 391
+msgid "Continue Reading"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 968
+msgid "Source"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 970
+msgid "Title"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 972
+msgid "Height"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 975
+msgid "100% Width"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 978
+msgid "Continuous Slideshow"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 981
+msgid "seconds"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 985
+msgid "Fade Effect"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 988
+msgid "slides"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 993
+msgid "Easing Effect"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 995
+msgid "Order"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 998
+msgid "Navigation Arrows"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1003
+msgid "Thumbnails"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1005
+msgid "words"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1007
+msgid "Background Color"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1009
+msgid "Slide Overlay"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1011
+msgid "Display"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1013
+msgid "Animate"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1014
+msgid "Style"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1038
+msgid "$data[\"label\"]"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1040
+msgid "Latest %d posts"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1104
+msgid "Random"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1127
+msgid "Title & Description"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1150
+msgid "Overlay Content"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1173
+msgid "Slide Up & Down"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1196
+msgid "Fancy"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1232
+msgid "Fade"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1233
+msgid "Fadeout"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1234
+msgid "Scroll Horizontal"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1235
+msgid "Scroll Vertical"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1236
+msgid "Flip Horizontal"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1237
+msgid "Flip Vertical"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1238
+msgid "Shuffle"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1239
+msgid "Tile Slide"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1240
+msgid "Tile Slide Horizontal"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1241
+msgid "Tile Blind"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1242
+msgid "Tile Blind Horizontal"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1243
+msgid "Carousel"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1269
+msgid "None"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1270
+msgid "Swing"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1271
+msgid "Ease In Quad"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1272
+msgid "Ease Out Quad"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1273
+msgid "Ease In Out Quad"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1274
+msgid "Ease In Cubic"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1275
+msgid "Ease Out Cubic"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1276
+msgid "Ease In Out Cubic"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1277
+msgid "Ease In Quart"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1278
+msgid "Ease Out Quart"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1279
+msgid "Ease In Out Quart"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1280
+msgid "Ease In Quint"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1281
+msgid "Ease Out Quint"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1282
+msgid "Ease In Out Quint"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1283
+msgid "Ease In Sine"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1284
+msgid "Ease Out Sine"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1285
+msgid "Ease In Out Sine"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1286
+msgid "Ease In Expo"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1287
+msgid "Ease Out Expo"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1288
+msgid "Ease In Out Expo"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1289
+msgid "Ease In Circ"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1290
+msgid "Ease Out Circ"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1291
+msgid "Ease In Out Circ"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1292
+msgid "Ease In Elastic"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1293
+msgid "Ease Out Elastic"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1294
+msgid "Ease In Out Elastic"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1295
+msgid "Ease In Back"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1296
+msgid "Ease Out Back"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1297
+msgid "Ease In Out Back"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1298
+msgid "Ease In Bounce"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1299
+msgid "Ease Out Bounce"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1300
+msgid "Ease In Out Bounce"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1565
+msgid "Slideshow Overlay"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1593
+msgid "Description"
+msgstr ""
+
+#sponsors-slideshow-widget.php: 1594
+msgid "These slideshow overlay settings are optional. If empty, the post/page title and excerpt will be used as overlay"
+msgstr ""
+
+#tinymce/window.php: 68
+msgid "Timeout"
+msgstr ""
+
+#tinymce/window.php: 72
+msgid "Speed"
+msgstr ""
+
+#tinymce/window.php: 83
+msgid "Show"
+msgstr ""
+
+#tinymce/window.php: 84
+msgid "slides in Carousel"
+msgstr ""
+
+#tinymce/window.php: 93
+msgid "Pager"
+msgstr ""
+
+#tinymce/window.php: 96
+msgid "Hide"
+msgstr ""
+
+#tinymce/window.php: 98
+msgid "Buttons"
+msgstr ""
+
+#tinymce/window.php: 104
+msgid "Bounding Box"
+msgstr ""
+
+#tinymce/window.php: 108
+msgid "Alignment"
+msgstr ""
+
+#tinymce/window.php: 111
+msgid "Floating Left"
+msgstr ""
+
+#tinymce/window.php: 112
+msgid "Centered"
+msgstr ""
+
+#tinymce/window.php: 113
+msgid "Floating Right"
+msgstr ""
+
+#tinymce/window.php: 118
+msgid "Post Excerpt"
+msgstr ""
+
+#tinymce/window.php: 141
+msgid "Cancel"
+msgstr ""
+
+#tinymce/window.php: 145
+msgid "Insert"
+msgstr ""
+

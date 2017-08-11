@@ -1,0 +1,60 @@
+/*
+ * Theme Esteem by ThemeGrill
+ */
+.fancy-slideshow-nav-container.style-esteem {
+	position: relative;
+	top: -3em;
+	z-index: 99;
+}
+.fancy-slideshow-nav-container.style-esteem .fancy-slideshow-nav.buttons a {
+	margin: 0 0.3571em; /* scaled to 5px @ 14px base size */
+	background-color: #fff;
+	font-size: 1em;
+	width: 1.3em;
+	height: 0.4em;
+	display: inline-block;
+	vertical-align: middle;
+	text-indent: -9999px;
+	border: 0;
+	text-decoration: none;
+	moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+.fancy-slideshow-nav-container.style-esteem .fancy-slideshow-nav.buttons a:hover,
+.fancy-slideshow-nav-container.style-esteem .fancy-slideshow-nav.buttons a.active,
+.fancy-slideshow-nav-container.style-esteem .fancy-slideshow-nav.buttons a.activeSlide,
+.fancy-slideshow-nav-container.style-esteem .fancy-slideshow-nav.buttons a.cycle-pager-active {
+	/*background-color: #008852;*/ /* inline css to use $primary_color */
+}
+.fancy-slideshow .cycle-overlay.esteem,
+.fancy-slideshow .slide-overlay.esteem {
+	position: absolute;
+	top: 40%;
+	left: 5%;
+	text-align: left;
+	max-width: 50%;
+	font-size: 1em;
+	z-index: 101;
+}
+.fancy-slideshow .cycle-overlay.esteem .title,
+.fancy-slideshow .slide-overlay.esteem .title {
+	/*background-color: #008852;*/ /* inline css to use $primary_color */
+	color: #fff;
+	padding: 10px 10px 10px 15px;
+	font-size: 1.5em;
+	display: block;
+	margin-bottom: 5px;
+}
+.fancy-slideshow .cycle-overlay.esteem .description,
+.fancy-slideshow .slide-overlay.esteem .description {
+	padding: 10px 10px 10px 15px;
+	background: rgb(255, 255, 255);
+	background: rgba(255, 255, 255, 0.5);
+	display: block;
+	/* For IE 5.5 - 7*/
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#fff, endColorstr=#fff);
+	/* For IE 8*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#fff, endColorstr=#fff)";
+	color: #000;
+}
